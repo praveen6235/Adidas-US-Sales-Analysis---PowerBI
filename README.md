@@ -14,10 +14,10 @@ The dashboard helps in understanding trends, performance metrics, and decision-m
 
 ## 📂 Files in This Repository
 
-- **38.pbix**  
+- **Adidas Sales Dataset.pbix**  
   → Power BI dashboard file containing data model, DAX measures, and visualizations  
 
-- **38.xlsx**  
+- **Dashboard.xlsx**  
   → Source dataset used for analysis  
 
 ---
